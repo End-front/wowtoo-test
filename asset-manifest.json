@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wowtoo-test/static/css/main.e9c8792d.css",
+    "main.js": "/wowtoo-test/static/js/main.a2588640.js",
+    "static/media/NAMU-1750.woff": "/wowtoo-test/static/media/NAMU-1750.4e4f6c2a96bdf3dff72e.woff",
+    "static/media/NAMU-1850.woff": "/wowtoo-test/static/media/NAMU-1850.3fc010bd91058ae2a074.woff",
+    "static/media/NAMU-1750.woff2": "/wowtoo-test/static/media/NAMU-1750.a0db15cd06f6ac09934c.woff2",
+    "static/media/NAMU-1910.woff": "/wowtoo-test/static/media/NAMU-1910.76fc403d740873cbe75e.woff",
+    "static/media/NAMU-1850.woff2": "/wowtoo-test/static/media/NAMU-1850.464fbc414e0fd0d5dc4a.woff2",
+    "static/media/NAMU-1930.woff": "/wowtoo-test/static/media/NAMU-1930.acae9cb1669658ca52b1.woff",
+    "static/media/NAMU-1960.woff": "/wowtoo-test/static/media/NAMU-1960.c3783262f6c7848cefe4.woff",
+    "static/media/NAMU-1910.woff2": "/wowtoo-test/static/media/NAMU-1910.9c35d8243faaf75f966f.woff2",
+    "static/media/NAMU-1930.woff2": "/wowtoo-test/static/media/NAMU-1930.79f1029548b92b6f6f8f.woff2",
+    "static/media/NAMU-1960.woff2": "/wowtoo-test/static/media/NAMU-1960.ed40976f0fdf425e2b8b.woff2",
+    "static/media/MontserratAlternates-Black.woff": "/wowtoo-test/static/media/MontserratAlternates-Black.2aaa11211c0f4593be61.woff",
+    "static/media/MontserratAlternates-Black.woff2": "/wowtoo-test/static/media/MontserratAlternates-Black.8689df42f4a312040f59.woff2",
+    "index.html": "/wowtoo-test/index.html",
+    "main.e9c8792d.css.map": "/wowtoo-test/static/css/main.e9c8792d.css.map",
+    "main.a2588640.js.map": "/wowtoo-test/static/js/main.a2588640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c8792d.css",
+    "static/js/main.a2588640.js"
+  ]
+}
