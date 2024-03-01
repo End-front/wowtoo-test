@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wowtoo-test/static/css/main.e9c8792d.css",
-    "main.js": "/wowtoo-test/static/js/main.2025bb3e.js",
+    "main.js": "/wowtoo-test/static/js/main.ce20f04a.js",
     "static/media/NAMU-1750.woff": "/wowtoo-test/static/media/NAMU-1750.4e4f6c2a96bdf3dff72e.woff",
     "static/media/NAMU-1850.woff": "/wowtoo-test/static/media/NAMU-1850.3fc010bd91058ae2a074.woff",
     "static/media/NAMU-1750.woff2": "/wowtoo-test/static/media/NAMU-1750.a0db15cd06f6ac09934c.woff2",
@@ -16,10 +16,10 @@
     "static/media/MontserratAlternates-Black.woff2": "/wowtoo-test/static/media/MontserratAlternates-Black.8689df42f4a312040f59.woff2",
     "index.html": "/wowtoo-test/index.html",
     "main.e9c8792d.css.map": "/wowtoo-test/static/css/main.e9c8792d.css.map",
-    "main.2025bb3e.js.map": "/wowtoo-test/static/js/main.2025bb3e.js.map"
+    "main.ce20f04a.js.map": "/wowtoo-test/static/js/main.ce20f04a.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c8792d.css",
-    "static/js/main.2025bb3e.js"
+    "static/js/main.ce20f04a.js"
   ]
 }
